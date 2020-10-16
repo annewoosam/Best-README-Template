@@ -55,7 +55,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Tech Stack](#built-with)
+  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -84,12 +84,16 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Tech Stack
-* [Python]
+### Built With
+* [Python](https://www.python.org)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [JavaScript]
-* [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Flask]
+* [PostgreSQL](https://www.postgresql.org)
+* [SQLAlchemy](https://www.sqlalchemy.org)
+* [Bootstrap](https://getbootstrap.com)
+* [Font Awesome](https://fontawesome.com)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
