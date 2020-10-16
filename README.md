@@ -144,20 +144,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/annewoosam) - annewoosamcode@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: [https://github.com/annewoosam/dynamic-checklist-generator.git](https://github.com/annewoosam/dynamic-checklist-generator.git)
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Pexels](https://www.pexels.com)
-
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
