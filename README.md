@@ -55,7 +55,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Tech Stack](#tech stack)
+  * [Tech Stack](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
