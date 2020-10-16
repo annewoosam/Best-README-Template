@@ -1,25 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -57,15 +35,19 @@ The checklist generator.
 ### Built With
 * [Python](https://www.python.org)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-* [JavaScript]
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JQuery](https://jquery.com)
 * [PostgreSQL](https://www.postgresql.org)
+* [Faker API](https://faker.readthedocs.io/en/master/)
 * [SQLAlchemy](https://www.sqlalchemy.org)
-* [HTML]
-* [CSS]
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/)
+* [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+* [Charts.js](https://www.chartjs.org/docs/latest/)
 * [Bootstrap](https://getbootstrap.com)
 * [Font Awesome](https://fontawesome.com)
-
+* [Pexels](https://www.pexels.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -79,20 +61,25 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Clone the repo
+
 ```sh
 git clone https://github.com/annewoosam/dynamic-checklist-generator.git
 ```
 2. Create directory
+
 3. Git pull
+
 4. Create virtual environment
 ```sh
 virtualenv env
 source env/bin/activate
 ```
+
 5. Install Requirements
 ```sh
 pip install -r requirements.txt
 ```
+
 4. Launch server
 ```sh
 python3 server.py
