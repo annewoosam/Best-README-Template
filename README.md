@@ -14,6 +14,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+  * [Deployed With](#deployed-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -49,7 +50,7 @@ The checklist generator.
 * [Font Awesome](https://fontawesome.com)
 * [Pexels](https://www.pexels.com)
 
-### Deployment
+### Deployed With
 
 * [AWS Ligthsail](https://aws.amazon.com/lightsail/)
 * [Ubuntu 18.04](https://help.ubuntu.com/)
