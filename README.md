@@ -32,8 +32,6 @@
 
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -49,8 +47,6 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -65,6 +61,8 @@ The checklist generator.
 * [JQuery](https://jquery.com)
 * [PostgreSQL](https://www.postgresql.org)
 * [SQLAlchemy](https://www.sqlalchemy.org)
+* [HTML]
+* [CSS]
 * [Bootstrap](https://getbootstrap.com)
 * [Font Awesome](https://fontawesome.com)
 
@@ -77,11 +75,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+* python
 
 ### Installation
 
@@ -112,14 +106,19 @@ The Dynamic Checklist Generator helps you keep track of complicated processes.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
+* [Landing page register and log-in button split]
+* [Drop-Down direct feed to database]
+* [Refresh data in same page]
+* [Twilio 2FA]
+* [Twilio text notifications]
+* [Twilio SMS]
+* [Twilio reminders]
+* [Twilio chat]
+* [Training log]
+* [Time per project calculator]
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -144,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/annewoosam) - annewoosamcode@gmail.com
+Anne Woo-Sam - [@your_twitter](https://twitter.com/annewoosam) - annewoosamcode@gmail.com
 
 Project Link: [https://github.com/annewoosam/dynamic-checklist-generator.git](https://github.com/annewoosam/dynamic-checklist-generator.git)
 
