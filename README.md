@@ -104,9 +104,11 @@ pip install -r requirements.txt
 ```sh
 python3 server.py
 ```
-6. Access the app at localhost:5000
+7. Seed database.
 
-7. Practice creating records, reviewing Kanban boards, viewing training areas in reporting.
+8. Access the app at localhost:5000
+
+9. Practice creating records, reviewing Kanban boards, setting up a centralized inbox on gmail, changing message text and viewing training areas in reporting, as well as deleting records from psql using the back-end.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
