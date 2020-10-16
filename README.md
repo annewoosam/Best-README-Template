@@ -36,7 +36,7 @@ The checklist generator.
 * [Python](https://www.python.org)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [JQuery](https://jquery.com)
+* [jQuery](https://jquery.com)
 * [PostgreSQL](https://www.postgresql.org)
 * [Faker API](https://faker.readthedocs.io/en/master/)
 * [SQLAlchemy](https://www.sqlalchemy.org)
