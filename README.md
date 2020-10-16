@@ -80,10 +80,11 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Launch server
+6. Launch server
 ```sh
 python3 server.py
 ```
+7. Access the app at localhost:5000
 
 <!-- USAGE EXAMPLES -->
 ## Usage
