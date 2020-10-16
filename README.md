@@ -55,7 +55,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Tech Stack](#tech-stack)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -84,11 +84,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Tech Stack
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+
 
 
 
