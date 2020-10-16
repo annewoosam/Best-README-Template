@@ -87,10 +87,10 @@ git clone https://github.com/annewoosam/dynamic-checklist-generator.git
 4. Create virtual environment
 ```sh
 virtualenv env
+source env/bin/activate
 ```
 5. Install Requirements
 ```sh
-source env/bin/activate
 pip install -r requirements.txt
 ```
 4. Launch server
