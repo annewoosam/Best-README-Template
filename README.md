@@ -91,8 +91,6 @@ python3 server.py
 
 The Dynamic Checklist Generator helps you keep track of complicated processes.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <!-- ROADMAP -->
 ## Roadmap
 
