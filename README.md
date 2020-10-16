@@ -106,6 +106,8 @@ python3 server.py
 ```
 6. Access the app at localhost:5000
 
+7. Practice creating records, reviewing Kanban boards, viewing training areas in reporting.
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -124,6 +126,7 @@ The Dynamic Checklist Generator helps you keep track of complicated processes.
 * Twilio chat
 * Training log
 * Time per project calculator
+* Role-based permissions including the ability to delete records created by user
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -137,13 +140,16 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+The MIT License (MIT) Copyright (c) 2016 Agne Klimaite
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <!-- CONTACT -->
 ## Contact
