@@ -109,16 +109,16 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-* [Landing page register and log-in button split]
-* [Drop-Down direct feed to database]
-* [Refresh data in same page]
-* [Twilio 2FA]
-* [Twilio text notifications]
-* [Twilio SMS]
-* [Twilio reminders]
-* [Twilio chat]
-* [Training log]
-* [Time per project calculator]
+* Landing page register and log-in button split
+* Drop-Down direct feed to database
+* Refresh data in same page
+* Twilio 2FA
+* Twilio text notifications
+* Twilio SMS
+* Twilio reminders
+* Twilio chat
+* Training log
+* Time per project calculator
 
 <!-- CONTRIBUTING -->
 ## Contributing
