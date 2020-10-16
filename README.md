@@ -49,6 +49,15 @@ The checklist generator.
 * [Font Awesome](https://fontawesome.com)
 * [Pexels](https://www.pexels.com)
 
+Deployment
+
+* [AWS Ligthsail](https://aws.amazon.com/lightsail/)
+* [Ubuntu 18.04](https://help.ubuntu.com/)
+* [NGINX](https://nginx.org/en/)
+* [GoDaddy](https://www.godaddy.com]
+* [Certbot](https://certbot.eff.org/)
+* [SSL Labs](https://www.ssllabs.com/ssltest/)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
