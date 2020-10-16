@@ -35,18 +35,6 @@
 
   <h3 align="center">The Dynamic Checklist Generator</h3>
 
-  <p align="center">
-
-    <br />
-    <a href="https://github.com/annewoosam/dynamic-checklist-generator.git/docs"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/annewoosam/dynamic-checklist-generator.git/demo">View Demo</a>
-    ·
-    <a href="https://github.com/annewoosam/dynamic-checklist-generator.git/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/annewoosam/dynamic-checklist-generator.git/issues">Request Feature</a>
-  </p>
 </p>
 
 
