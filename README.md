@@ -75,7 +75,9 @@ To get a local copy up and running follow these simple example steps.
 git clone https://github.com/annewoosam/dynamic-checklist-generator.git
 ```
 2. Create directory
-
+```sh
+mkdir dynamic-checklist-generator
+```
 3. Create virtual environment
 ```sh
 virtualenv env
