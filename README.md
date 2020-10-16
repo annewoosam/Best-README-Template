@@ -79,24 +79,22 @@ git clone https://github.com/annewoosam/dynamic-checklist-generator.git
 ```
 2. Create directory
 
-3. Git pull
-
-4. Create virtual environment
+3. Create virtual environment
 ```sh
 virtualenv env
 source env/bin/activate
 ```
 
-5. Install Requirements
+4. Install Requirements
 ```sh
 pip install -r requirements.txt
 ```
 
-6. Launch server
+5. Launch server
 ```sh
 python3 server.py
 ```
-7. Access the app at localhost:5000
+6. Access the app at localhost:5000
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -108,7 +106,7 @@ The Dynamic Checklist Generator helps you keep track of complicated processes.
 
 * Landing page register and log-in button split
 * Drop-Down direct feed to database
-* Refresh data in same page
+* Refresh data in same page using AJAX
 * Twilio 2FA
 * Twilio text notifications
 * Twilio SMS
