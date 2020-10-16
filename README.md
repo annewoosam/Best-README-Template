@@ -108,7 +108,7 @@ python3 server.py
 
 8. Access the app at localhost:5000
 
-9. Practice creating records, reviewing Kanban boards, setting up a centralized inbox on gmail, changing message text and viewing training areas in reporting, as well as deleting records from psql using the back-end.
+9. Practice creating your own JSOn files to seed longer checklists, registering and logging in, creating records, reviewing Kanban boards, setting up a centralized inbox on gmail, changing message text and viewing training areas in reporting, as well as deleting records from psql using the back-end.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
