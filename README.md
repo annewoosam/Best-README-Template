@@ -70,7 +70,6 @@ The checklist generator.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -81,7 +80,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/annewoosam/dynamic-checklist-generator.git
 ```
 2. Create directory
 3. Git pull
@@ -143,7 +142,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Anne Woo-Sam - [@your_twitter](https://twitter.com/annewoosam) - annewoosamcode@gmail.com
+Anne Woo-Sam - [@annewoosam](https://twitter.com/annewoosam) - annewoosamcode@gmail.com
 
 Project Link: [https://github.com/annewoosam/dynamic-checklist-generator.git](https://github.com/annewoosam/dynamic-checklist-generator.git)
 
