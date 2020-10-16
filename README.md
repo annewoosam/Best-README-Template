@@ -33,6 +33,9 @@
 The checklist generator.
 
 ### Built With
+
+### Development
+
 * [Python](https://www.python.org)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -49,12 +52,12 @@ The checklist generator.
 * [Font Awesome](https://fontawesome.com)
 * [Pexels](https://www.pexels.com)
 
-Deployment
+### Deployment
 
 * [AWS Ligthsail](https://aws.amazon.com/lightsail/)
 * [Ubuntu 18.04](https://help.ubuntu.com/)
 * [NGINX](https://nginx.org/en/)
-* [GoDaddy](https://www.godaddy.com]
+* [GoDaddy](https://www.godaddy.com)
 * [Certbot](https://certbot.eff.org/)
 * [SSL Labs](https://www.ssllabs.com/ssltest/)
 
