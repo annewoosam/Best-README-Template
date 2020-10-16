@@ -32,6 +32,11 @@ The checklist generator.
 
 ### Built With
 
+### Local Environment Tools
+
+* [Vagrant](https://www.vagrantup.com/docs)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
 ### Development
 
 * [Python](https://www.python.org)
@@ -48,7 +53,6 @@ The checklist generator.
 * [Charts.js](https://www.chartjs.org/docs/latest/)
 * [Bootstrap](https://getbootstrap.com)
 * [Font Awesome](https://fontawesome.com)
-* [Pexels](https://www.pexels.com)
 
 ### Deployed With
 
