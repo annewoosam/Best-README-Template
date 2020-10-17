@@ -39,7 +39,7 @@ Finally, the checklist allows the reviewer to view reporting on which questions 
 ### Built With
 
 ### Local Environment Tools
-* [Mac OS High Sierra or above]
+* Mac OS High Sierra or above
 * [Vagrant (Chef/Linux/Ubuntu 18.04)](https://www.vagrantup.com/docs)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
