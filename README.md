@@ -62,12 +62,16 @@ Finally, the checklist allows the reviewer to view reporting on which questions 
 
 ### Deployed With
 
-* [AWS Ligthsail](https://aws.amazon.com/lightsail/)
+* [AWS Lightsail](https://aws.amazon.com/lightsail/)
 * [Ubuntu 18.04](https://help.ubuntu.com/)
 * [NGINX](https://nginx.org/en/)
 * [GoDaddy](https://www.godaddy.com)
 * [Certbot](https://certbot.eff.org/)
 * [SSL Labs](https://www.ssllabs.com/ssltest/)
+
+### Resources
+* [Digital Ocean Community](https://www.digitalocean.com)
+* [AWS IQ](https://aws.amazon.com/about-aws/whats-new/2019/09/introducing-aws-iq/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
