@@ -122,8 +122,7 @@ The Dynamic Checklist Generator helps you keep track of complicated processes.
 * Drop-Down direct feed to database
 * Refresh data in same page using AJAX
 * Twilio 2FA
-* Twilio text notifications
-* Twilio SMS
+* Twilio SMS text notifications
 * Twilio reminders
 * Twilio chat
 * Training log
