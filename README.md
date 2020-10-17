@@ -167,6 +167,8 @@ Project Link: [https://github.com/annewoosam/dynamic-checklist-generator.git](ht
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Pexels](https://www.pexels.com)
+* Hackbright instructors: Marisa Gloor, Katrina Huber-Juma and Andrew Blum
+* Mentors Ebh Teng and Tejaswi Agarwal
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
